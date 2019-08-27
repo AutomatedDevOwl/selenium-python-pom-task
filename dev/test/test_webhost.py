@@ -18,11 +18,3 @@ class TestWebHost(TestCaseWebHost):
         
         # Wait before closing browser.
         TestCaseWebHost.wait_before_closing_browser(self)
-            
-    def test_google(self):
-        
-        # Navigate to Google home page.
-        pytest.driver.get("http://www.google.com")
-        
-        # Wait before closing browser.
-        TestCaseWebHost.wait_before_closing_browser(self)
