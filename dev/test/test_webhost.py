@@ -1,5 +1,4 @@
 import sys
-import time
 import pytest
 from .test_case_webhost import TestCaseWebHost
 
