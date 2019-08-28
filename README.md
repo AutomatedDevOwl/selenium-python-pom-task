@@ -1,4 +1,4 @@
-# selenium-python-pom-example
+# selenium-python-pom-task
 
 Example of selenium test using Page-Object-Model running on pytest framework.
 This example currently supports Linux distribution or Windows with Chrome browser of version 66-68 installed.
